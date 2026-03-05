@@ -4,6 +4,7 @@ author        = "pharao"
 description   = "Standalone Nim source code filter (stdtmpl) transformer"
 license       = "MIT"
 srcDir        = "src"
+installExt    = @["nim"]
 bin           = @["scf"]
 
 # Dependencies
